@@ -1,19 +1,27 @@
 # QuizAppJS
 
 ## Description
-This project is a simple interactive quiz developed in **HTML**, **CSS** and **JavaScript**. The goal is to allow users to answer a series of questions and get a score at the end.
 
-##  Fonctionality
-- Simple user interface.
-- Display of multiple choice questions.
-- Automatic score calculation at the end of the quiz.
-- Display of the final score with a feedback message.
+Ce projet est un simple quiz interactif développé en **HTML**, **CSS** et **JavaScript**. Le but est de permettre aux utilisateurs de répondre à une série de questions et d'obtenir un score à la fin.
 
-## Prerequisities
-To run this project you need :
-- A modern web browser (Chrome, Firefox, Edge, etc.).
+## Fonctionnalité
+
+- Interface utilisateur simple.
+- Affichage des questions à choix multiples.
+- Calcul automatique du score à la fin du quiz.
+- Affichage du score final avec un message de feedback.
+
+## Prérequis
+
+Pour exécuter ce projet, vous avez besoin de :
+
+- Un navigateur web moderne (Chrome, Firefox, Edge, etc.).
 
 ## Installation
-1. Clone the repository :
-	```bash
-	git clone https://github.com/TristanDeschamp/QuizAppJS.git
+
+1. Clonez le dépôt :
+
+```bash
+git clone https://github.com/TristanDeschamp/QuizAppJS.git
+cd QuizAppJS
+```
